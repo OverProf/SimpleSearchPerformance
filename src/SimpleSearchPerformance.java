@@ -46,7 +46,7 @@ public class SimpleSearchPerformance {
             System.out.println(inputSize + "  " + averageTime);
         }
     }
-
+///////////////////
     /* return index of the searched number if found, or -1 if not found */
     public static int searchNumberList(long lookFor, long[] list) {
         for(int i=0; i<list.length; i++ ){
